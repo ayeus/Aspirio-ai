@@ -19,13 +19,20 @@ EdTech | AI-Driven Solutions | Career Development
 - **Interview Preparation**: An AI bot simulating interview scenarios by asking topic-specific questions and analyzing responses.
 
 ## 🌟 Screenshots 📸
-- **Landing Page**: WhatsApp Image 2025-01-19 at 20 32 34_5529cfaa, WhatsApp Image 2025-01-19 at 20 33 21_06bda153, WhatsApp Image 2025-01-19 at 20 34 28_6a9cf162
-- **Login and SignUp**: WhatsApp Image 2025-01-19 at 20 37 17_86e0611c, WhatsApp Image 2025-01-19 at 20 37 45_c7e83cc3
-- **Dashboard**: image
-- **Technical Interview**: image
-- **Roadmap**: image
-- **Exam Prep**: image
-- **Resume Builder**: image
+- **Landing Page**:![image](https://github.com/user-attachments/assets/6bc938cc-a33c-44d8-bb1a-cda629a41d32)
+
+- **Login and SignUp**: ![image](https://github.com/user-attachments/assets/9267d663-f14f-4701-b0b6-5e32a1ae417d)
+
+- **Dashboard**: ![image](https://github.com/user-attachments/assets/76e768ea-7327-457f-9dff-c8debbf94508)
+
+- **Technical Interview**: ![image](https://github.com/user-attachments/assets/1059a660-391d-42ac-bea0-3bf3aff46f7a)
+
+- **Roadmap**: ![image](https://github.com/user-attachments/assets/7194f956-766c-4d3b-8f6e-bda83622866b)
+
+- **Exam Prep**: ![image](https://github.com/user-attachments/assets/1bc1478d-1076-4719-ab3a-fbf3f686c639)
+
+- **Resume Builder**: ![image](https://github.com/user-attachments/assets/a1185f0d-1f97-413d-8bb6-fd5b09d17ed3)
+
 
 ## 🚀 Getting Started
 
@@ -93,8 +100,4 @@ EdTech | AI-Driven Solutions | Career Development
 - **AI/ML**: Meta Llama-3.2 LLM for generating roadmaps, MCQs, and interview simulations
 - **Additional Tools**: Streamlit for UI in AI-based features, Shadcn for UI design
 
-## 🎥 Demo Link
-[Watch Demo Here](#)
 
-## 🤝 Contributing
-We welcome contributions to Aspirio! Please read our contributing guidelines before submitting pull requests.
