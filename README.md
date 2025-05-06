@@ -1,6 +1,9 @@
 ## Aspirio 🎓
 A revolutionary platform to simplify exam preparation, resume building, and interview practice using AI-driven technologies.
 
+##Poster -
+https://drive.google.com/file/d/1SYja2x71GhcaiNq4iG2k9NHJnlQIooT5/view?usp=drivesdk
+
 ## 🎯 Problem Statement
 Preparing for competitive exams, crafting professional resumes, practicing topic-specific MCQs, and preparing for interviews often lack:
 - Personalization and efficiency.
